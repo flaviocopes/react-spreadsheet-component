@@ -1,0 +1,30 @@
+// Jest Snapshot v1, https://goo.gl/fbAQLP
+
+exports[`A Cell renders correctly 1`] = `
+<span
+  onClick={[Function]}
+  onDoubleClick={[Function]}
+  role="presentation"
+  style={
+    Object {
+      "border": "1px solid #cacaca",
+      "boxSizing": "border-box",
+      "color": "black",
+      "display": "inline-block",
+      "fontFamily": "Calibri, 'Segoe UI', Thonburi, Arial, Verdana, sans-serif",
+      "fontSize": "14px",
+      "height": "25px",
+      "lineHeight": "15px",
+      "margin": "0",
+      "overflow": "hidden",
+      "padding": "4px",
+      "position": "relative",
+      "textAlign": "left",
+      "verticalAlign": "top",
+      "width": "80px",
+    }
+  }
+>
+  Test
+</span>
+`;
